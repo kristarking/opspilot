@@ -3,3 +3,4 @@
 plan.txt
 quota.json
 __pycache__/
+cache/
